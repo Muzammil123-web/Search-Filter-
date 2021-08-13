@@ -1,0 +1,19 @@
+.head{
+  display: flex;
+justify-content: center;
+  margin-top: 8%;
+}
+.item{
+  align-items: center;
+  margin-left: 40%;
+  margin-top: 7%;
+}
+.head input{
+  width: 35%;
+  border-radius: 8px;
+
+}
+.head input::placeholder{
+  color:blueviolet;
+  font-style: italic;
+}
